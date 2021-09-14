@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+	<style type="text/css">
+		#container{
+			display: grid;
+			grid-template-columns: repeat(auto-fit,minmax(200px,max-content));
+			justify-content: center;
+		}
+		#cart img{
+			width: 150px;
+		}
+
+		#cart{
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<main>
+		<div id="container">
+			<div id="cart">
+				<div id="top">
+					<img src="image/Apple.jpg">
+					<p>Chocolate</p>
+					<h4>Square</h4>
+					<p>Tk. 120</p>
+				</div>
+				<div id="bottom">
+					<button>Add To Cart</button>
+					<button>Details</button>
+				</div>
+			</div>
+			<div id="cart">
+				<div id="top">
+					<img src="image/Apple.jpg">
+					<p>Chocolate</p>
+					<h4>Square</h4>
+					<p>Tk. 120</p>
+				</div>
+				<div id="bottom">
+					<button>Add To Cart</button>
+					<button>Details</button>
+				</div>
+			</div>
+			<div id="cart">
+				<div id="top">
+					<img src="image/Apple.jpg">
+					<p>Chocolate</p>
+					<h4>Square</h4>
+					<p>Tk. 120</p>
+				</div>
+				<div id="bottom">
+					<button>Add To Cart</button>
+					<button>Details</button>
+				</div>
+			</div>
+			<div id="cart">
+				<div id="top">
+					<img src="image/Apple.jpg">
+					<p>Chocolate</p>
+					<h4>Square</h4>
+					<p>Tk. 120</p>
+				</div>
+				<div id="bottom">
+					<button>Add To Cart</button>
+					<button>Details</button>
+				</div>
+			</div>
+			<div id="cart">
+				<div id="top">
+					<img src="image/Apple.jpg">
+					<p>Chocolate</p>
+					<h4>Square</h4>
+					<p>Tk. 120</p>
+				</div>
+				<div id="bottom">
+					<button>Add To Cart</button>
+					<button>Details</button>
+				</div>
+			</div>
+			<div id="cart">
+				<div id="top">
+					<img src="image/Apple.jpg">
+					<p>Chocolate</p>
+					<h4>Square</h4>
+					<p>Tk. 120</p>
+				</div>
+				<div id="bottom">
+					<button>Add To Cart</button>
+					<button>Details</button>
+				</div>
+			</div>
+			<div id="cart">
+				<div id="top">
+					<img src="image/Apple.jpg">
+					<p>Chocolate</p>
+					<h4>Square</h4>
+					<p>Tk. 120</p>
+				</div>
+				<div id="bottom">
+					<button>Add To Cart</button>
+					<button>Details</button>
+				</div>
+			</div>
+		</div>
+	</main>
+</body>
+</html>
